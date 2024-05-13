@@ -118,8 +118,8 @@ analytics:
 author:
   name: "文凯"
   avatar: "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "A mind at work. Microsoft MVP and passionate .NET dev. Trying to be all the human I can be in the time I have. (he/him)"
-  location: "Arlington, VA, USA"
+  bio: "一个人只拥有此生此世是不够的，他还应该拥有诗意的世界"
+  location: "Beijing, China"
   email: "Allen-kevin@gmail.com"
   links:
     - label: "GitHub"
@@ -127,23 +127,10 @@ author:
       url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-<<<<<<< Updated upstream
-      url: "https://linkedin.com/in/Allen-kevin"
-    - label: "Twitch"
-      icon: "fab fa-fw fa-twitch"
-      url: "https://twitch.tv/sjkilleen"
-    - label: "dev.to"
-      icon: "fab fa-fw fa-dev"
-      url: "https://dev.to/Allen-kevin"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/seankilleen"
-=======
       url: "https://www.linkedin.com/in/%E6%96%87%E5%87%AF-%E4%B8%87-a61b832b7/"
     - label: "ZhiHu"
       icon: "fab fa-fw fa-zhihu"
       url: "https://www.zhihu.com/people/kevin-57-49-80"
->>>>>>> Stashed changes
 
 # Site Footer
 footer:
@@ -156,14 +143,7 @@ footer:
       url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-<<<<<<< Updated upstream
-      url: "https://linkedin.com/in/Allen-kevin"
-    - label: "BMC"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "http://buymeacoff.ee/Allen-kevin"
-=======
       url: "https://www.linkedin.com/in/%E6%96%87%E5%87%AF-%E4%B8%87-a61b832b7/"
->>>>>>> Stashed changes
 
 # Reading Files
 include:
