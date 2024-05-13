@@ -93,8 +93,8 @@ yandex_site_verification:
 naver_site_verification:
 
 # Social Sharing
-twitter:
-  username: sjkilleen
+zhihu:
+  username: 怪圈
 facebook:
   username: Allen-kevin
   app_id:
@@ -116,20 +116,18 @@ analytics:
 
 # Site Author
 author:
-  name: "Sean Killeen"
+  name: "文凯"
   avatar: "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "A mind at work. Microsoft MVP and passionate .NET dev. Trying to be all the human I can be in the time I have. (he/him)"
   location: "Arlington, VA, USA"
   email: "Allen-kevin@gmail.com"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sjkilleen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
+<<<<<<< Updated upstream
       url: "https://linkedin.com/in/Allen-kevin"
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
@@ -140,22 +138,32 @@ author:
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/seankilleen"
+=======
+      url: "https://www.linkedin.com/in/%E6%96%87%E5%87%AF-%E4%B8%87-a61b832b7/"
+    - label: "ZhiHu"
+      icon: "fab fa-fw fa-zhihu"
+      url: "https://www.zhihu.com/people/kevin-57-49-80"
+>>>>>>> Stashed changes
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/sjkilleen"
+    - label: "ZhiHu"
+      icon: "fab fa-fw fa-zhihu-square"
+      url: "https://www.zhihu.com/people/kevin-57-49-80"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
+<<<<<<< Updated upstream
       url: "https://linkedin.com/in/Allen-kevin"
     - label: "BMC"
       icon: "fas fa-fw fa-mug-hot"
       url: "http://buymeacoff.ee/Allen-kevin"
+=======
+      url: "https://www.linkedin.com/in/%E6%96%87%E5%87%AF-%E4%B8%87-a61b832b7/"
+>>>>>>> Stashed changes
 
 # Reading Files
 include:
