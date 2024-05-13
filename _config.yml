@@ -20,13 +20,13 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "SeanKilleen.com"
+title: "Allen-kevin.com"
 title_separator: "-"
-name: "SeanKilleen.com"
+name: "Allen-kevin.com"
 description: "Ramblings on bytes and life."
-url: "https://SeanKilleen.com"
+url: "https://Allen-kevin.com"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "SeanKilleen/seankilleen.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: "Allen-kevin/allen-kevin.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 defaultbranch: "main"
 #teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -96,7 +96,7 @@ naver_site_verification:
 twitter:
   username: sjkilleen
 facebook:
-  username: SeanKilleen
+  username: Allen-kevin
   app_id:
   publisher:
 og_image: # Open Graph/Twitter default site image
@@ -120,23 +120,23 @@ author:
   avatar: "/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "A mind at work. Microsoft MVP and passionate .NET dev. Trying to be all the human I can be in the time I have. (he/him)"
   location: "Arlington, VA, USA"
-  email: "SeanKilleen@gmail.com"
+  email: "Allen-kevin@gmail.com"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sjkilleen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SeanKilleen"
+      url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/SeanKilleen"
+      url: "https://linkedin.com/in/Allen-kevin"
     - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/sjkilleen"
     - label: "dev.to"
       icon: "fab fa-fw fa-dev"
-      url: "https://dev.to/SeanKilleen"
+      url: "https://dev.to/Allen-kevin"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
       url: "https://www.youtube.com/seankilleen"
@@ -149,13 +149,13 @@ footer:
       url: "https://twitter.com/sjkilleen"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/SeanKilleen"
+      url: "https://github.com/Allen-kevin"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/SeanKilleen"
+      url: "https://linkedin.com/in/Allen-kevin"
     - label: "BMC"
       icon: "fas fa-fw fa-mug-hot"
-      url: "http://buymeacoff.ee/SeanKilleen"
+      url: "http://buymeacoff.ee/Allen-kevin"
 
 # Reading Files
 include:
